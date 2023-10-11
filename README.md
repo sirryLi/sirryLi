@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @sirryLi
 - this account is created for ucas assignment
 
 <!---
